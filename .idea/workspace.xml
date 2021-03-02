@@ -119,6 +119,7 @@
       <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
       <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
       <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/laravel/breeze" />
     </include_path>
   </component>
   <component name="ProjectId" id="1pCv1y8j4pXc8PNqdWXqyXtR66W" />
@@ -146,7 +147,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614699679421</updated>
-      <workItem from="1614699681435" duration="72000" />
+      <workItem from="1614699681435" duration="1053000" />
     </task>
     <servers />
   </component>
@@ -158,5 +159,9 @@
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
     <state x="510" y="349" key="#Composer/0.0.1504.1003/-1920.167.1280.720@0.0.1504.1003" timestamp="1614699753020" />
+    <state x="540" y="401" key="NewPhpFileDialog" timestamp="1614700396191">
+      <screen x="0" y="0" width="1504" height="1003" />
+    </state>
+    <state x="540" y="401" key="NewPhpFileDialog/0.0.1504.1003/-1920.167.1280.720@0.0.1504.1003" timestamp="1614700396191" />
   </component>
 </project>
