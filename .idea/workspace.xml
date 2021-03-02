@@ -130,6 +130,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -147,7 +153,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614699679421</updated>
-      <workItem from="1614699681435" duration="1053000" />
+      <workItem from="1614699681435" duration="4255000" />
     </task>
     <servers />
   </component>
@@ -159,9 +165,9 @@
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
     <state x="510" y="349" key="#Composer/0.0.1504.1003/-1920.167.1280.720@0.0.1504.1003" timestamp="1614699753020" />
-    <state x="540" y="401" key="NewPhpFileDialog" timestamp="1614700396191">
+    <state x="540" y="401" key="NewPhpFileDialog" timestamp="1614710504255">
       <screen x="0" y="0" width="1504" height="1003" />
     </state>
-    <state x="540" y="401" key="NewPhpFileDialog/0.0.1504.1003/-1920.167.1280.720@0.0.1504.1003" timestamp="1614700396191" />
+    <state x="540" y="401" key="NewPhpFileDialog/0.0.1504.1003/-1920.167.1280.720@0.0.1504.1003" timestamp="1614710504255" />
   </component>
 </project>
