@@ -15,5 +15,8 @@ class CartProductController extends Controller
             'user_id'=>auth()->id(),
             'session_id'=>session()->getId()
         ]);
+
+        $cart->products()->syncWithoutDetaching($product);
+        return back();
     }
 }
